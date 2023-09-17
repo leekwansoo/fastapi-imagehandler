@@ -54,7 +54,6 @@ jwcrypto
 keras
 libclang
 loguru
-Markdown
 mongodb
 motor
 msgpack
