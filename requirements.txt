@@ -55,7 +55,6 @@ keras
 libclang
 loguru
 Markdown
-MarkupSafe
 mongodb
 motor
 msgpack
