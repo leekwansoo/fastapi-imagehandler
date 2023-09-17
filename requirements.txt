@@ -54,12 +54,6 @@ jmespath
 joblib
 jwcrypto
 keras
-Kivy
-kivy-deps.angle
-kivy-deps.glew
-kivy-deps.sdl2
-Kivy-Garden
-kiwisolver
 libclang
 loguru
 mangum
