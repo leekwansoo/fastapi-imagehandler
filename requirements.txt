@@ -80,9 +80,7 @@ pygame
 Pygments
 PyJWT
 pymongo
-PyMySQL
 pyparsing
-pypiwin32
 Pyrebase4
 python-dateutil
 python-dotenv
