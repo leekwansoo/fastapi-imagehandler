@@ -54,8 +54,6 @@ jwcrypto
 keras
 libclang
 loguru
-mongodb
-motor
 msgpack
 networkx
 numpy
