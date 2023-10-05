@@ -4,7 +4,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 from bson.objectid import ObjectId 
 
-MONGODB_URL = "mongodb+srv://admin:james@cluster0.ujzjm.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URL = "mongodb+srv://<id>:<pw>@cluster0.ujzjm.mongodb.net/?retryWrites=true&w=majority"
 client = AsyncIOMotorClient(MONGODB_URL)
 database = client.image
 image_collection = database.get_collection("image_collection")
